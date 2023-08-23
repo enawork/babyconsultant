@@ -1,0 +1,28 @@
+{
+  "manifest_version": 1,
+  "version": 2,
+  "type": "APP",
+  "name": {
+    "en": "babyconsultant",
+    "ja": "babyconsultant"
+  },
+  "description": {
+    "en": "babyconsultant",
+    "ja": "babyconsultant"
+  },
+  "icon": "icon.png",
+  "desktop": {
+    "js": ["desktop.js"],
+    "css": []
+  },
+  "mobile": {
+    "js": ["desktop.js"],
+    "css": []
+  },
+  "config": {
+    "html": "config.html",
+    "js": ["config.js"],
+    "css": [],
+    "required_params": []
+  }
+}
