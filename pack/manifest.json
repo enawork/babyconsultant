@@ -10,14 +10,14 @@
     "en": "babyconsultant",
     "ja": "babyconsultant"
   },
-  "icon": "icon.png",
+  "icon": "icon.jpg",
   "desktop": {
     "js": ["desktop.js"],
-    "css": []
+    "css": ["desktop.css"]
   },
   "mobile": {
     "js": ["desktop.js"],
-    "css": []
+    "css": ["desktop.css"]
   },
   "config": {
     "html": "config.html",

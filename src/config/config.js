@@ -27,6 +27,7 @@ const Config = () => {
       <Stack direction='row'>
         <TextField type='text' size='small' label='endpoint' value={config.endpoint} onChange={e => handleChange('endpoint', e.target.value)} />
         <TextField type='text' size='small' label='apikey' value={config.apikey} onChange={e => handleChange('apikey', e.target.value)} />
+        <TextField type='text' size='small' label='deploymentId' value={config.deploymentId} onChange={e => handleChange('deploymentId', e.target.value)} />
       </Stack>
     </Stack>
   )
