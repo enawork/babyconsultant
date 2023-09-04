@@ -6,17 +6,18 @@ We're excited to have you here and encourage you to contribute, collaborate, and
 In this README, you'll find an overview of the project, its goals, the technologies used, and how to get started with contributing.
 
 ## Support and Donations
-<a href="https://github.com/sponsors/enawork">Become a sponsor</a>
+
+[Become a sponsor](https://github.com/sponsors/enawork)
 
 ## Table of Contents
-- Project Goals
-- Features
-- Technologies
-- How to Contribute
-- License
-- Contact
+- [Project Goals](#project-goals)
+- [Features](features)
+- [Technologies](technologies)
+- [How to Contribute](how-to-contribute)
+- [License](license)
+- [Contact](contact)
 
-## Project Goals
+## [Project Goals]
 The main goal of this project is to enable users with low information literacy to build and manage systems on low-code platforms like kintone without requiring any specialized knowledge.
 We aim to create a tool that leverages AI to automate app creation, customization, and data processing for low-code tools, allowing users to perform these tasks simply by providing instructions in natural language.
 
