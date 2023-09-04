@@ -11,11 +11,11 @@ In this README, you'll find an overview of the project, its goals, the technolog
 
 ## Table of Contents
 - [Project Goals](#project-goals)
-- [Features](features)
-- [Technologies](technologies)
-- [How to Contribute](how-to-contribute)
-- [License](license)
-- [Contact](contact)
+- [Features](#features)
+- [Technologies](#technologies)
+- [How to Contribute](#how-to-contribute)
+- [License](#license)
+- [Contact](#contact)
 
 ## Project Goals
 The main goal of this project is to enable users with low information literacy to build and manage systems on low-code platforms like kintone without requiring any specialized knowledge.
